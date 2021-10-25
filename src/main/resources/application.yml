@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://210.122.41.168:1433;DatabaseName=K_Project_dev
+    username: kproject
+    password: kdb0311!@
